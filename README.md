@@ -19,3 +19,7 @@
 ### Resultados
 
 ![phishing DIO](https://github.com/user-attachments/assets/5d16b7c0-cfdc-465d-9e13-288196abd3f5)
+
+## Observações
+- Todos os passos foram executados da forma exemplificada na aula, no entanto, tanto no facebook ou outra rede social, nunca me chegou aparecer os dados de User / Pw no report.
+  
